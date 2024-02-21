@@ -4683,7 +4683,7 @@ input{
     font-size:14px
 }
 .price:after{
-    content:"о Ђ"
+    content:""
 }
 .price--fire{
     position:relative
@@ -4703,14 +4703,14 @@ input{
     z-index:1
 }
 .money:after{
-    content:"о Њ"
+    content:""
 }
 .star{
     align-items:center;
     display:inline-flex
 }
 .star:before{
-    content:"о Џ";
+    content:"";
     font-family:iconsfont;
     font-size:12px;
     font-weight:400;
@@ -4723,7 +4723,7 @@ input{
     display:inline-flex
 }
 .star-mark:after{
-    content:"о Џ";
+    content:"";
     font-family:iconsfont;
     font-size:12px;
     font-weight:400;
@@ -4843,85 +4843,85 @@ input{
     flex:0 0 auto
 }
 .icon-wallet:before{
-    content:"о Ђ"
+    content:""
 }
 .icon-close:before{
-    content:"о Ѓ"
+    content:""
 }
 .icon-search:before{
-    content:"о ‚"
+    content:""
 }
 .icon-time:before{
-    content:"о ѓ"
+    content:""
 }
 .icon-bucket:before{
-    content:"о „"
+    content:""
 }
 .icon-arrow-right:before{
-    content:"о …"
+    content:""
 }
 .icon-menu:before{
-    content:"о †"
+    content:""
 }
 .icon-close-bold:before{
-    content:"о ‡"
+    content:""
 }
 .icon-back:before{
-    content:"о €"
+    content:""
 }
 .icon-edit:before{
-    content:"о ‰"
+    content:""
 }
 .icon-close-extrabold:before{
-    content:"о Љ"
+    content:""
 }
 .icon-news:before{
-    content:"о ‹"
+    content:""
 }
 .icon-money:before{
-    content:"о Њ"
+    content:""
 }
 .icon-not-see:before{
-    content:"о Ќ"
+    content:""
 }
 .icon-see:before{
-    content:"о Ћ"
+    content:""
 }
 .icon-star:before{
-    content:"о Џ"
+    content:""
 }
 .icon-minus-circled:before{
-    content:"о ђ"
+    content:""
 }
 .icon-bookmark:before{
-    content:"о ‘"
+    content:""
 }
 .icon-key:before{
-    content:"о ’"
+    content:""
 }
 .icon-horror:before{
-    content:"о “"
+    content:""
 }
 .icon-pin:before{
-    content:"о ”"
+    content:""
 }
 .icon-star-bold:before{
-    content:"о •"
+    content:""
 }
 .icon-arm:before{
-    content:"о –"
+    content:""
 }
 .icon-rocket:before{
-    content:"о —"
+    content:""
 }
 .icon-gear:before{
-    content:"о "
+    content:""
 }
 .icon-flag:before{
-    content:"о ™"
+    content:""
 }
 .icon-leaves:before{
-    content:"о љ"
+    content:""
 }
 .btn{
     background:linear-gradient(180deg,#0000,#0003),#1c2f76;
@@ -5492,7 +5492,7 @@ input{
     padding-left:19px
 }
 .breadcrumbs__link:first-child:before{
-    content:"в†ђ";
+    content:"←";
     left:0;
     position:absolute;
     top:50%;
@@ -5736,7 +5736,7 @@ input{
     z-index:1
 }
 .select:after{
-    content:"в†“";
+    content:"↓";
     pointer-events:none;
     position:absolute;
     right:15px;
@@ -5809,7 +5809,7 @@ input{
     font-size:12px
 }
 .select--arrow:after{
-    content:"о …";
+    content:"";
     font-family:iconsfont;
     font-size:10px;
     right:7px;
@@ -5818,7 +5818,7 @@ input{
 }
 .select--arrow-bold:after{
     color:gray;
-    content:"о €";
+    content:"";
     font-family:iconsfont;
     font-size:12px;
     right:7px;
@@ -6035,13 +6035,13 @@ input{
     transition:color .2s ease
 }
 .checkbox--icon .checkbox__switch--star:after{
-    content:"о Џ"
+    content:""
 }
 .checkbox--icon .checkbox__switch--bookmark:after{
-    content:"о ‘"
+    content:""
 }
 .checkbox--icon .checkbox__switch--minus:after{
-    content:"о ђ"
+    content:""
 }
 .checkbox--icon .checkbox__input:checked~.checkbox__switch:after{
     color:#ce0063
@@ -7122,7 +7122,7 @@ body.body--desktop .header{
     line-height:1.1
 }
 .profile-menu__link:after{
-    content:"о …";
+    content:"";
     font-family:iconsfont;
     font-size:9px;
     margin-left:5px
@@ -7360,7 +7360,7 @@ body.body--desktop .header{
     margin-top:7px
 }
 .profile-info__more:after{
-    content:"в†“";
+    content:"↓";
     display:inline-block;
     margin-left:3px;
     transition:transform .4s .3s
@@ -8902,7 +8902,7 @@ body.body--desktop .header{
     display:inline-flex
 }
 .admin-menu__link--arrow-right span:after{
-    content:"в†’";
+    content:"→";
     margin-left:3px;
     margin-top:-2px
 }
@@ -9764,7 +9764,7 @@ body.body--desktop .header{
     width:50px
 }
 .single-product__slider-next:before,.single-product__slider-prev:before{
-    content:"о …";
+    content:"";
     display:inline-block;
     font-family:iconsfont;
     font-size:10px
@@ -10051,7 +10051,7 @@ body.body--desktop .header{
     width:100%
 }
 .faq__btn:after{
-    content:"о …";
+    content:"";
     display:block;
     font-family:iconsfont;
     font-size:10px;
@@ -11102,7 +11102,7 @@ body.body--desktop .header{
     width:100%
 }
 .choose-position__item-btn:after{
-    content:"о …";
+    content:"";
     font-family:iconsfont;
     font-size:9px;
     transform:rotate(90deg);
@@ -11498,7 +11498,7 @@ body.body--desktop .header{
     text-align:left
 }
 .departments__choice-btn:after{
-    content:"о …";
+    content:"";
     font-family:iconsfont;
     font-size:8px;
     transform:rotate(-45deg)
@@ -13417,7 +13417,7 @@ body.body--desktop .header{
     z-index:1
 }
 .avatar-pin:before{
-    content:"о ”";
+    content:"";
     font-family:iconsfont;
     font-size:48px;
     font-weight:400;
